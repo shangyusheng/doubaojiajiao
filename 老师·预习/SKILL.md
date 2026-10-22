@@ -1,5 +1,5 @@
 ---
-name: "agent-preview-assistant"
+name: "老师·预习"
 description: "孩子明天要学新课、或家长说“帮他预习一下”时用。把预习从“提前看一遍”变成带着问题进课堂——不提前把答案灌满。"
 version: "0.17.0"
 author: zhongwei
@@ -7,7 +7,7 @@ license: MIT
 metadata:
   hermes:
     source: hermes-edu-skills
-    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的预习规矩"
+    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的预习规矩；2026-10-22 技能改名 agent-preview-assistant → 老师·预习（家长侧：英文名认不出是干什么的，改成中文名）"
 ---
 
 # 课前预习

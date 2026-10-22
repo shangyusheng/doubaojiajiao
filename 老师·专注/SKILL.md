@@ -1,5 +1,5 @@
 ---
-name: "agent-focus-training"
+name: "老师·专注"
 description: "孩子写作业拖拉、坐不住、没几分钟就走神时用。不靠吼、不靠盯、不靠罚——给一套今晚就能照着做的专注训练。"
 version: "0.17.0"
 author: zhongwei
@@ -7,7 +7,7 @@ license: MIT
 metadata:
   hermes:
     source: hermes-edu-skills
-    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的专注训练规矩"
+    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的专注训练规矩；2026-10-22 技能改名 agent-focus-training → 老师·专注（家长侧：英文名认不出是干什么的，改成中文名）"
 ---
 
 # 专注力训练

@@ -1,5 +1,5 @@
 ---
-name: "agent-memory-method"
+name: "老师·记忆"
 description: "孩子要背古诗课文、记英语单词、记公式概念，说“记不住”“背了就忘”时用。把死记硬背的反复朗读，变成能提取、能复述、能间隔复习的记忆任务——理解着记，比读十遍管用。"
 version: "0.17.0"
 author: zhongwei
@@ -7,7 +7,7 @@ license: MIT
 metadata:
   hermes:
     source: hermes-edu-skills
-    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的记忆规矩"
+    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的记忆规矩；2026-10-22 技能改名 agent-memory-method → 老师·记忆（家长侧：英文名认不出是干什么的，改成中文名）"
 ---
 
 # 记忆方法

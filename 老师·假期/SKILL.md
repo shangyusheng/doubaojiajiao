@@ -1,5 +1,5 @@
 ---
-name: "agent-holiday-plan"
+name: "老师·假期"
 description: "放假了、家长问“寒暑假怎么安排”时用。把假期从“报复性补课”改成有节奏的计划：巩固、预习、阅读、运动、休息都要有，还留开学前收心。绝不把假期排满——排满孩子就抵触了。"
 version: "0.17.0"
 author: zhongwei
@@ -7,7 +7,7 @@ license: MIT
 metadata:
   hermes:
     source: hermes-edu-skills
-    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的假期计划规矩"
+    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的假期计划规矩；2026-10-22 技能改名 agent-holiday-plan → 老师·假期（家长侧：英文名认不出是干什么的，改成中文名）"
 ---
 
 # 寒暑假计划
@@ -95,7 +95,7 @@ metadata:
 ## 七、和这套东西怎么接
 
 - 家长说“放假了怎么学”“暑假帮我安排”时，「每天学习」会把这里调过来（调度表见「每天学习」第二节）。
-- **假期的薄弱点巩固**，数据从学科文件的「薄弱点」取；执行时该练的走 `agent-weakness-boost`、该记的走 `agent-memory-method`。
+- **假期的薄弱点巩固**，数据从学科文件的「薄弱点」取；执行时该练的走「老师·补弱」、该记的走「老师·记忆」。
 - **开学后**，日常回到「每天学习」的节奏；假期攒的阅读、习惯，接着往下走。
 
 ---

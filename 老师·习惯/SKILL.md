@@ -1,5 +1,5 @@
 ---
-name: "agent-learning-habit"
+name: "老师·习惯"
 description: "孩子某个好习惯总坚持不了——每天阅读、作业前不磨蹭、错题订正老忘——时用。把“养成习惯”这件虚事，落到固定的触发点、小到能开始的动作、看得见的反馈和家长怎么配合上。一次只改一个习惯。"
 version: "0.17.0"
 author: zhongwei
@@ -7,7 +7,7 @@ license: MIT
 metadata:
   hermes:
     source: hermes-edu-skills
-    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的习惯养成规矩"
+    modified: "2026-09-17 孩子专属学习助手：去掉 Hermes 框架内容（调用信号、公开契约、参数化使用、Required Dimensions、Default Policy、Standalone 等），改成这套东西自己的习惯养成规矩；2026-10-22 技能改名 agent-learning-habit → 老师·习惯（家长侧：英文名认不出是干什么的，改成中文名）"
 ---
 
 # 学习习惯
@@ -98,7 +98,7 @@ metadata:
 ## 八、和这套东西怎么接
 
 - 家长说“打卡坚持不了”“作业前老磨蹭”“订正总忘”时，「每天学习」会把这里调过来（调度表见「每天学习」第二节）。
-- **和 `agent-focus-training` 的区别**：那个管“坐着时专不专心”，这个管“能不能天天开始做这件事”。走神找专注训练，坚持不了找这里。
+- **和「老师·专注」的区别**：那个管“坐着时专不专心”，这个管“能不能天天开始做这件事”。走神找专注训练，坚持不了找这里。
 - 打卡表可以放进 `孩子学习/记录/`，和专注记录、错题放一起，一周回看时一并看。
 
 ---
